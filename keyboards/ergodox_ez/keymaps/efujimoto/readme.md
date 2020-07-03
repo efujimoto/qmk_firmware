@@ -6,3 +6,9 @@ So, I took the default firmware and just made a couple of tweaks that make it ea
 2. The media keys work on OSX (But not on Windows).
 
 ![default osx](https://i.imgur.com/z0aqFDq.png)
+
+To enable key logging with Lead D, set
+LEADER_ENABLE = yes
+CONSOLE_ENABLE = yes
+MOUSEKEY_ENABLE = no
+(MOUSEKEY is only disabled to save space)

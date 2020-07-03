@@ -4,10 +4,13 @@
 #include QMK_KEYBOARD_H
 #include "debug.h"
 #include "action_layer.h"
+#include <print.h>
 
 #define BASE 0 // default layer
 #define SYMB 1 // symbols
 #define MDIA 2 // media keys
+
+bool log_enable = false;
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /* Keymap 0: Basic layer
@@ -24,7 +27,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *   |Grv/L1|  '"  |AltShf| Left | Right|                                       | Down |  Up  |   [  |   ]  | Ctrl |
  *   `----------------------------------'                                       `----------------------------------'
  *                                        ,-------------.       ,-------------.
- *                                        | App  | LGui |       | Alt  |Ctrl/Esc|
+ *                                        | App  | Lead |       | Alt  |Ctrl/Esc|
  *                                 ,------|------|------|       |------+--------+------.
  *                                 |      |      | Home |       | PgUp |        |      |
  *                                 | Space|Backsp|------|       |------|  Tab   |Enter |
@@ -40,7 +43,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_ENT,        KC_A,         KC_S,   KC_D,   KC_F,   KC_G,
         KC_LSFT,        CTL_T(KC_Z),  KC_X,   KC_C,   KC_V,   KC_B,   ALL_T(KC_LBRC),
         LT(SYMB,KC_GRV),KC_QUOT,      LALT(KC_LSFT),  KC_LEFT,KC_RGHT,
-                                              ALT_T(KC_APP),  KC_LGUI,
+                                              ALT_T(KC_APP),  KC_LEAD,
                                                               KC_HOME,
                                                KC_SPC,KC_BSPC,KC_END,
         // right hand
@@ -104,7 +107,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |--------+------+------+------+------+------|      |           |      |------+------+------+------+------+--------|
  * |        | Home |Alt<- |Alt-> | End  |      |------|           |------|      | Left | Down |Right |      |  Play  |
  * |--------+------+------+------+------+------|      |           |      |------+------+------+------+------+--------|
- * |        |      |      |      |      |      |      |           |      |      |      | Prev | Next |      |        |
+ * |        |      |      |      |      |      |      |           |      |      | Prev | Next |      |      |        |
  * `--------+------+------+------+------+-------------'           `-------------+------+------+------+------+--------'
  *   |      |      |      | Lclk | Rclk |                                       |VolUp |VolDn | Mute |      |      |
  *   `----------------------------------'                                       `----------------------------------'
@@ -131,7 +134,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
        KC_TRNS,  KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS,
        KC_TRNS,  KC_TRNS, KC_TRNS, KC_UP, KC_TRNS, KC_TRNS, KC_TRNS,
                  KC_TRNS, KC_LEFT, KC_DOWN, KC_RIGHT, KC_TRNS, KC_MPLY,
-       KC_TRNS,  KC_TRNS, KC_TRNS, KC_MPRV, KC_MNXT, KC_TRNS, KC_TRNS,
+       KC_TRNS,  KC_TRNS, KC_MPRV, KC_MNXT, KC_TRNS, KC_TRNS, KC_TRNS,
                           KC_VOLU, KC_VOLD, KC_MUTE, KC_TRNS, KC_TRNS,
        KC_TRNS, KC_TRNS,
        KC_TRNS,
@@ -163,6 +166,8 @@ void matrix_init_user(void) {
 
 };
 
+LEADER_EXTERNS();
+
 // Runs constantly in the background, in a loop.
 void matrix_scan_user(void) {
 
@@ -185,4 +190,48 @@ void matrix_scan_user(void) {
       break;
   }
 
+  if (log_enable) {
+    ergodox_right_led_3_on();
+  } else {
+    ergodox_right_led_3_off();
+  }
+
+  LEADER_DICTIONARY() {
+    leading = false;
+    leader_end();
+    SEQ_ONE_KEY (KC_D) {
+      log_enable = !log_enable;
+    }
+  }
 };
+
+void print_key(keyrecord_t *record, const char *layer) {
+  uprintf(
+        "KL: col=%02d, row=%02d, pressed=%d, layer=%s\n",
+        record->event.key.col,
+        record->event.key.row,
+        record->event.pressed,
+        layer
+      );
+}
+
+bool process_record_user (uint16_t keycode, keyrecord_t *record) {
+  if (log_enable) {
+    #ifdef CONSOLE_ENABLE
+    uint8_t layer = biton32(layer_state);
+
+    switch (layer) {
+      case SYMB:
+        print_key(record, "Symb");
+        break;
+      case MDIA:
+        print_key(record, "Mdia");
+        break;
+      default:
+        print_key(record, "Base");
+        break;
+    }
+    #endif
+  }
+  return true;
+}
