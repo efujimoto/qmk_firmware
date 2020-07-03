@@ -10,13 +10,13 @@ will listen for key press logging events if key logging is turned on and print t
 screen
 
 # Usage
-To log key presses to a file to be used by `heatmap.py`, run
+To log key presses to a file to be used by `heatmap.py`, navigate to this directory and run
 ```
-./hid_listen.mac > stamped_log
+./hid_listen.mac > stamped-log
 ```
 to write to a new file or
 ```
-./hid_listen.mac >> stamped_log
+./hid_listen.mac >> stamped-log
 ```
 to append to a file
 

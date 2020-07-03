@@ -110,6 +110,25 @@ class Heatmap(object):
         if self.max_cnt < self.log[(c, r)]:
             self.max_cnt = self.log[(c, r)]
 
+    def get_dict(self):
+        logs = {}
+        for key in self.log.keys():
+            new_key = f"{key[0]},{key[1]}"
+            logs[new_key] = self.log[key]
+        return {
+            'max_count': self.max_cnt,
+            'total': self.total,
+            'logs': logs
+        }
+
+    def load_dict(self, dictionary):
+        self.max_cnt = dictionary['max_count']
+        self.total = dictionary['total']
+        logs = dictionary['logs']
+        for key in logs:
+            column, row = key.split(',')
+            self.log[(int(column), int(row))] = logs[key]
+
     def get_heatmap(self, out_dir):
         with open("%s/heatmap-layout.%s.json" % (out_dir, self.layout), "r") as f:
             self.heatmap = json.load (f)
@@ -200,7 +219,7 @@ class Heatmap(object):
                 stats['hands'][hmap[hand_idx]]['fingers'][fmap[finger_idx + hand_idx * 5]] = round(float(hand[finger_idx]) / total * 100, 2)
         return stats
 
-def dump_all(out_dir, heatmaps):
+def dump_all(out_dir, heatmaps, save):
     stats = {}
     t = Terminal()
     t.clear()
@@ -210,6 +229,7 @@ def dump_all(out_dir, heatmaps):
 
     keys = list(heatmaps.keys())
     keys.sort()
+    to_log = {}
 
     for layer in keys:
         if len(heatmaps[layer].log) == 0:
@@ -217,27 +237,37 @@ def dump_all(out_dir, heatmaps):
 
         with open ("%s/%s.json" % (out_dir, layer), "w") as f:
             json.dump(heatmaps[layer].get_heatmap(out_dir), f)
+        to_log[layer] = heatmaps[layer].get_dict()
         stats[layer] = heatmaps[layer].get_stats()
 
         left = stats[layer]['hands']['left']
         right = stats[layer]['hands']['right']
 
-        print ('{t.bold}{layer}{t.normal} ({total:,} taps):'.format(t=t, layer=layer,
-                                                                    total=int(stats[layer]['total-keys'] / 2)))
-        print (('{t.underline}        | ' + \
+        print(
+            '{t.bold}{layer}{t.normal} ({total:,} taps):'.format(
+                t=t, layer=layer, total=int(stats[layer]['total-keys'] / 2)
+            )
+        )
+        print(
+            ('{t.underline}        | ' + \
                 'left ({l[usage]:6.2f}%)  | ' + \
-                'right ({r[usage]:6.2f}%) |{t.normal}').format(t=t, l=left, r=right))
-        print ((' {t.bright_magenta}pinky{t.white}  |     {left[pinky]:6.2f}%     |     {right[pinky]:6.2f}%     |\n' + \
+                'right ({r[usage]:6.2f}%) |{t.normal}').format(t=t, l=left, r=right)
+        )
+        print(
+            (' {t.bright_magenta}pinky{t.white}  |     {left[pinky]:6.2f}%     |     {right[pinky]:6.2f}%     |\n' + \
                 ' {t.bright_cyan}ring{t.white}   |     {left[ring]:6.2f}%     |     {right[ring]:6.2f}%     |\n' + \
                 ' {t.bright_blue}middle{t.white} |     {left[middle]:6.2f}%     |     {right[middle]:6.2f}%     |\n' + \
                 ' {t.bright_green}index{t.white}  |     {left[index]:6.2f}%     |     {right[index]:6.2f}%     |\n' + \
-                ' {t.bright_red}thumb{t.white}  |     {left[thumb]:6.2f}%     |     {right[thumb]:6.2f}%     |\n' + \
-                '').format(left=left['fingers'], right=right['fingers'], t=t))
+                ' {t.bright_red}thumb{t.white}  |     {left[thumb]:6.2f}%     |     {right[thumb]:6.2f}%     |\n').format(left=left['fingers'], right=right['fingers'], t=t)
+        )
+
+    if save:
+        with open ("%s/heatmap_data.json" % out_dir, "w") as f:
+            json.dump(to_log, f)
 
 def process_line(line, heatmaps, opts, stamped_log = None):
     m = re.search ('KL: col=(\d+), row=(\d+), pressed=(\d+), layer=(.*)', line)
     if not m:
-        print(line)
         return False
     if stamped_log is not None:
         if line.startswith("KL:"):
@@ -250,7 +280,6 @@ def process_line(line, heatmaps, opts, stamped_log = None):
 
     (c, r, l) = (int(m.group (2)), int(m.group (1)), m.group (4))
     if (c, r) not in opts.allowed_keys:
-        print("not allowed")
         return False
 
     heatmaps[l].update_log ((c, r))
@@ -287,7 +316,6 @@ def main(opts):
         "Mdia": Heatmap("Mdia"),
         "Base": Heatmap("Base")
     }
-    cnt = 0
     out_dir = opts.outdir
 
     if not os.path.exists(out_dir):
@@ -295,49 +323,29 @@ def main(opts):
 
     opts.allowed_keys = setup_allowed_keys(opts)
 
-    # if not opts.one_shot:
-    #     try:
-    #         with open("%s/stamped-log" % out_dir, "r") as f:
-    #             while True:
-    #                 line = f.readline()
-    #                 if not line:
-    #                     break
-    #                 if not process_line(line, heatmaps, opts):
-    #                     continue
-    #     except:
-    #         pass
-    #
-    #     stamped_log = open ("%s/stamped-log" % out_dir, "a+")
-    # else:
-    #     stamped_log = None
+    if not opts.one_shot:
+        try:
+            with open("%s/heatmap_data.json" % out_dir, "r") as f:
+                data = json.load(f)
+                for layer in data:
+                    heatmaps[layer].load_dict(data[layer])
+        except FileNotFoundError:
+            pass
+
     stamped_log = None
     with open("%s/stamped-log" % out_dir, "r") as f:
         while True:
-            line = f.readline()#sys.stdin.readline()
+            line = f.readline()
             if not line:
                 break
             if not process_line(line, heatmaps, opts, stamped_log):
                 continue
 
-            cnt = cnt + 1
-
-            if opts.dump_interval != -1 and cnt >= opts.dump_interval and not opts.one_shot:
-                cnt = 0
-                dump_all(out_dir, heatmaps)
-
-    dump_all (out_dir, heatmaps)
+    dump_all(out_dir, heatmaps, not opts.one_shot)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser (description = "keylog to heatmap processor")
     parser.add_argument ('outdir', action = 'store',help = 'Output directory')
-    parser.add_argument (
-        '--dump-interval',
-        dest = 'dump_interval',
-        action = 'store',
-        type = int,
-        default = 100,
-        help = 'Dump stats and heatmap at every Nth event, -1 for dumping at EOF only'
-    )
     parser.add_argument (
         '--ignore-key',
         dest = 'ignore_key',
