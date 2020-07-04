@@ -4,11 +4,9 @@ import os
 import sys
 import re
 import argparse
-import time
 
 from math import floor
 from os.path import dirname
-from subprocess import Popen, PIPE, STDOUT
 from blessings import Terminal
 
 class Heatmap(object):
@@ -61,14 +59,14 @@ class Heatmap(object):
 
     def set_bg(self, coords, color):
         (block, n) = coords
-        self.set_attr_at(block, n, "c", self.set_attr, color)
+        self.set_attr_at(block, n, 'c', self.set_attr, color)
         #self.set_attr_at(block, n, "g", self.set_attr, False)
 
     def set_tap_info(self, coords, count, cap):
         (block, n) = coords
         def _set_tap_info(o, _count, _cap):
-            ns = 4 - o.count ("\n")
-            return o + "\n" * ns + "%.02f%%" % (float(_count) / float(_cap) * 100)
+            ns = 4 - o.count('\n')
+            return o + '\n' * ns + '%.02f%%' % (float(_count) / float(_cap) * 100)
 
         if not cap:
             cap = 1
@@ -93,7 +91,7 @@ class Heatmap(object):
         b = (colors[idx2][2] - colors[idx1][2]) * fb + colors[idx1][2]
 
         r, g, b = [x * 255 for x in (r, g, b)]
-        return "#%02x%02x%02x" % (int(r), int(g), int(b))
+        return '#%02x%02x%02x' % (int(r), int(g), int(b))
 
     def __init__(self, layout):
         self.log = {}
@@ -113,6 +111,7 @@ class Heatmap(object):
     def get_dict(self):
         logs = {}
         for key in self.log.keys():
+            # Can't serialize a tuple as a key, so turn it into a string
             new_key = f"{key[0]},{key[1]}"
             logs[new_key] = self.log[key]
         return {
@@ -125,19 +124,21 @@ class Heatmap(object):
         self.max_cnt = dictionary['max_count']
         self.total = dictionary['total']
         logs = dictionary['logs']
+        # Turn the string keys back into tuples
         for key in logs:
             column, row = key.split(',')
             self.log[(int(column), int(row))] = logs[key]
 
     def get_heatmap(self, out_dir):
-        with open("%s/heatmap-layout.%s.json" % (out_dir, self.layout), "r") as f:
-            self.heatmap = json.load (f)
+        heatmap_file = '{output_dir}/heatmap-layout.{layout}.json'.format(output_dir=out_dir, layout=self.layout)
+        with open(heatmap_file, 'r') as file:
+            self.heatmap = json.load(file)
 
         ## Reset colors
         for row in self.coords:
             for coord in row:
-                if coord != []:
-                    self.set_bg (coord, "#d9dae0")
+                if coord:
+                    self.set_bg(coord, '#d9dae0')
 
         for (c, r) in self.log:
             coords = self.coord(c, r)
@@ -225,18 +226,27 @@ def dump_all(out_dir, heatmaps, save):
     t.clear()
     sys.stdout.write("\x1b[2J\x1b[H")
 
-    print ('{t.underline}{outdir}{t.normal}\n'.format(t=t, outdir=out_dir))
+    print('{t.underline}{outdir}{t.normal}\n'.format(t=t, outdir=out_dir))
 
     keys = list(heatmaps.keys())
     keys.sort()
     to_log = {}
+    fingers = [
+        ('pinky', t.bright_magenta),
+        ('ring', t.bright_cyan),
+        ('middle', t.bright_blue),
+        ('index', t.bright_green),
+        ('thumb', t.bright_red)
+    ]
+    output_file_str = '{output_dir}/{layer}.json'
 
     for layer in keys:
         if len(heatmaps[layer].log) == 0:
             continue
 
-        with open ("%s/%s.json" % (out_dir, layer), "w") as f:
-            json.dump(heatmaps[layer].get_heatmap(out_dir), f)
+        output_file = output_file_str.format(output_dir=out_dir, layer=layer)
+        with open(output_file, 'w') as file:
+            json.dump(heatmaps[layer].get_heatmap(out_dir), file)
         to_log[layer] = heatmaps[layer].get_dict()
         stats[layer] = heatmaps[layer].get_stats()
 
@@ -245,44 +255,37 @@ def dump_all(out_dir, heatmaps, save):
 
         print(
             '{t.bold}{layer}{t.normal} ({total:,} taps):'.format(
-                t=t, layer=layer, total=int(stats[layer]['total-keys'] / 2)
+                t=t, layer=layer, total=int(stats[layer]['total-keys'])
             )
         )
         print(
-            ('{t.underline}        | ' + \
-                'left ({l[usage]:6.2f}%)  | ' + \
-                'right ({r[usage]:6.2f}%) |{t.normal}').format(t=t, l=left, r=right)
+            '{t.underline:12s}| left ({left:7.2%})  | right ({right:7.2%}) |{t.normal}'.format(
+                t=t, left=left['usage']/100, right=right['usage']/100
+            )
         )
-        print(
-            (' {t.bright_magenta}pinky{t.white}  |     {left[pinky]:6.2f}%     |     {right[pinky]:6.2f}%     |\n' + \
-                ' {t.bright_cyan}ring{t.white}   |     {left[ring]:6.2f}%     |     {right[ring]:6.2f}%     |\n' + \
-                ' {t.bright_blue}middle{t.white} |     {left[middle]:6.2f}%     |     {right[middle]:6.2f}%     |\n' + \
-                ' {t.bright_green}index{t.white}  |     {left[index]:6.2f}%     |     {right[index]:6.2f}%     |\n' + \
-                ' {t.bright_red}thumb{t.white}  |     {left[thumb]:6.2f}%     |     {right[thumb]:6.2f}%     |\n').format(left=left['fingers'], right=right['fingers'], t=t)
-        )
+
+        finger_row = ' {color}{finger:>6s}{t.white} | {left:^15.2%} | {right:^15.2%} |'
+        for finger, color in fingers:
+            left_val = left['fingers'][finger]/100
+            right_val = right['fingers'][finger]/100
+            print(finger_row.format(left=left_val, right=right_val, t=t, color=color, finger=finger))
+        print()
 
     if save:
-        with open ("%s/heatmap_data.json" % out_dir, "w") as f:
-            json.dump(to_log, f)
+        save_file = '{output_dir}/heatmap_data.json'.format(output_dir=out_dir)
+        with open(save_file, 'w') as file:
+            json.dump(to_log, file)
 
-def process_line(line, heatmaps, opts, stamped_log = None):
-    m = re.search ('KL: col=(\d+), row=(\d+), pressed=(\d+), layer=(.*)', line)
+def process_line(line, heatmaps, opts):
+    m = re.search('KL: col=(\d+), row=(\d+), layer=(.*)', line)
     if not m:
         return False
-    if stamped_log is not None:
-        if line.startswith("KL:"):
-            print ("%10.10f %s" % (time.time(), line),
-                   file = stamped_log, end = '')
-        else:
-            print (line,
-                   file = stamped_log, end = '')
-        stamped_log.flush()
 
-    (c, r, l) = (int(m.group (2)), int(m.group (1)), m.group (4))
-    if (c, r) not in opts.allowed_keys:
+    (column, row, layer) = (int(m.group(2)), int(m.group(1)), m.group(3))
+    if (column, row) not in opts.allowed_keys:
         return False
 
-    heatmaps[l].update_log ((c, r))
+    heatmaps[layer].update_log((column, row))
 
     return True
 
@@ -312,9 +315,9 @@ def setup_allowed_keys(opts):
 
 def main(opts):
     heatmaps = {
-        "Symb": Heatmap("Symb"),
-        "Mdia": Heatmap("Mdia"),
-        "Base": Heatmap("Base")
+        'Symb': Heatmap('Symb'),
+        'Mdia': Heatmap('Mdia'),
+        'Base': Heatmap('Base')
     }
     out_dir = opts.outdir
 
@@ -325,28 +328,29 @@ def main(opts):
 
     if not opts.one_shot:
         try:
-            with open("%s/heatmap_data.json" % out_dir, "r") as f:
-                data = json.load(f)
+            saved_data_file = '{output_dir}/heatmap_data.json'.format(output_dir=out_dir)
+            with open(saved_data_file, 'r') as file:
+                data = json.load(file)
                 for layer in data:
                     heatmaps[layer].load_dict(data[layer])
         except FileNotFoundError:
             pass
 
-    stamped_log = None
-    with open("%s/stamped-log" % out_dir, "r") as f:
+    raw_data_file = '{output_dir}/stamped-log'.format(output_dir=out_dir)
+    with open(raw_data_file, 'r') as file:
         while True:
-            line = f.readline()
+            line = file.readline()
             if not line:
                 break
-            if not process_line(line, heatmaps, opts, stamped_log):
+            if not process_line(line, heatmaps, opts):
                 continue
 
     dump_all(out_dir, heatmaps, not opts.one_shot)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser (description = "keylog to heatmap processor")
-    parser.add_argument ('outdir', action = 'store',help = 'Output directory')
-    parser.add_argument (
+    parser = argparse.ArgumentParser(description = 'keylog to heatmap processor')
+    parser.add_argument('outdir', action = 'store',help = 'Output directory')
+    parser.add_argument(
         '--ignore-key',
         dest = 'ignore_key',
         action = 'append',
@@ -354,7 +358,7 @@ if __name__ == "__main__":
         default = [],
         help = 'Ignore the key at position (x, y)'
     )
-    parser.add_argument (
+    parser.add_argument(
         '--only-key',
         dest = 'only_key',
         action = 'append',
@@ -362,7 +366,7 @@ if __name__ == "__main__":
         default = [],
         help = 'Only include key at position (x, y)'
     )
-    parser.add_argument (
+    parser.add_argument(
         '--one-shot',
         dest = 'one_shot',
         action = 'store_true',
@@ -370,6 +374,6 @@ if __name__ == "__main__":
     )
     args = parser.parse_args()
     if len(args.ignore_key) and len(args.only_key):
-        print ("--ignore-key and --only-key are mutually exclusive, please only use one of them!", file = sys.stderr)
+        print ('--ignore-key and --only-key are mutually exclusive, please only use one of them!', file = sys.stderr)
         sys.exit(1)
     main(args)

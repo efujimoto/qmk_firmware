@@ -206,13 +206,14 @@ void matrix_scan_user(void) {
 };
 
 void print_key(keyrecord_t *record, const char *layer) {
-  uprintf(
-        "KL: col=%02d, row=%02d, pressed=%d, layer=%s\n",
+  if (record->event.pressed) {
+    uprintf(
+        "KL: col=%02d, row=%02d, layer=%s\n",
         record->event.key.col,
         record->event.key.row,
-        record->event.pressed,
         layer
-      );
+    );
+  }
 }
 
 bool process_record_user (uint16_t keycode, keyrecord_t *record) {

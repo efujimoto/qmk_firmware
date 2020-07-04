@@ -1,792 +1,3630 @@
 Waiting for device:
 Listening:
-KL: col=03, row=00, pressed=1, layer=Base
-KL: col=03, row=05, pressed=1, layer=Base
-KL: col=03, row=00, pressed=0, layer=Base
-KL: col=03, row=05, pressed=0, layer=Base
-KL: col=02, row=01, pressed=1, layer=Base
-KL: col=02, row=02, pressed=1, layer=Base
-KL: col=02, row=01, pressed=0, layer=Base
-KL: col=01, row=03, pressed=1, layer=Base
-KL: col=02, row=02, pressed=0, layer=Base
-KL: col=01, row=03, pressed=0, layer=Base
-KL: col=05, row=03, pressed=1, layer=Base
-KL: col=05, row=03, pressed=0, layer=Base
-KL: col=03, row=00, pressed=1, layer=Base
-KL: col=02, row=11, pressed=1, layer=Base
-KL: col=03, row=00, pressed=0, layer=Base
-KL: col=02, row=11, pressed=0, layer=Base
-KL: col=02, row=01, pressed=1, layer=Base
-KL: col=01, row=08, pressed=1, layer=Base
-KL: col=02, row=01, pressed=0, layer=Base
-KL: col=01, row=08, pressed=0, layer=Base
-KL: col=01, row=03, pressed=1, layer=Base
-KL: col=01, row=04, pressed=1, layer=Base
-KL: col=01, row=03, pressed=0, layer=Base
-KL: col=01, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=03, pressed=1, layer=Base
-KL: col=00, row=03, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=03, pressed=1, layer=Base
-KL: col=00, row=03, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=03, pressed=1, layer=Base
-KL: col=00, row=03, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=10, pressed=1, layer=Base
-KL: col=00, row=10, pressed=0, layer=Base
-KL: col=03, row=12, pressed=1, layer=Base
-KL: col=02, row=11, pressed=1, layer=Mdia
-KL: col=02, row=11, pressed=0, layer=Mdia
-KL: col=02, row=11, pressed=1, layer=Mdia
-KL: col=02, row=11, pressed=0, layer=Mdia
-KL: col=02, row=11, pressed=1, layer=Mdia
-KL: col=02, row=11, pressed=0, layer=Mdia
-KL: col=02, row=11, pressed=1, layer=Mdia
-KL: col=02, row=11, pressed=0, layer=Mdia
-KL: col=03, row=12, pressed=0, layer=Mdia
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=02, row=12, pressed=1, layer=Base
-KL: col=02, row=12, pressed=0, layer=Symb
-KL: col=03, row=00, pressed=1, layer=Base
-KL: col=00, row=10, pressed=1, layer=Base
-KL: col=00, row=10, pressed=0, layer=Base
-KL: col=03, row=00, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=03, pressed=1, layer=Base
-KL: col=00, row=03, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=10, pressed=1, layer=Base
-KL: col=00, row=10, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=01, row=02, pressed=1, layer=Base
-KL: col=01, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=02, pressed=1, layer=Base
-KL: col=00, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=02, pressed=1, layer=Base
-KL: col=00, row=02, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=10, pressed=1, layer=Base
-KL: col=04, row=10, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=03, row=12, pressed=1, layer=Base
-KL: col=02, row=09, pressed=1, layer=Mdia
-KL: col=02, row=09, pressed=0, layer=Mdia
-KL: col=02, row=09, pressed=1, layer=Mdia
-KL: col=02, row=09, pressed=0, layer=Mdia
-KL: col=02, row=09, pressed=1, layer=Mdia
-KL: col=02, row=09, pressed=0, layer=Mdia
-KL: col=02, row=09, pressed=1, layer=Mdia
-KL: col=02, row=09, pressed=0, layer=Mdia
-KL: col=02, row=09, pressed=1, layer=Mdia
-KL: col=02, row=09, pressed=0, layer=Mdia
-KL: col=03, row=12, pressed=0, layer=Mdia
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=09, pressed=1, layer=Base
-KL: col=00, row=09, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=09, pressed=1, layer=Base
-KL: col=00, row=09, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=09, pressed=1, layer=Base
-KL: col=00, row=09, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=11, pressed=1, layer=Base
-KL: col=02, row=13, pressed=1, layer=Base
-KL: col=00, row=11, pressed=0, layer=Base
-KL: col=02, row=13, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=11, pressed=1, layer=Base
-KL: col=00, row=11, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=10, pressed=1, layer=Base
-KL: col=04, row=10, pressed=0, layer=Base
-KL: col=04, row=10, pressed=1, layer=Base
-KL: col=04, row=10, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=02, row=13, pressed=1, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=00, pressed=1, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=00, pressed=0, layer=Base
-KL: col=02, row=13, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=03, pressed=1, layer=Base
-KL: col=00, row=03, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=00, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=00, row=13, pressed=0, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=03, pressed=1, layer=Base
-KL: col=00, row=03, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=02, row=11, pressed=1, layer=Base
-KL: col=02, row=11, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=10, pressed=1, layer=Base
-KL: col=04, row=10, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=10, pressed=1, layer=Base
-KL: col=00, row=10, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=10, pressed=1, layer=Base
-KL: col=00, row=10, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=02, pressed=1, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=00, row=02, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=02, pressed=1, layer=Base
-KL: col=00, row=02, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=09, pressed=1, layer=Base
-KL: col=00, row=09, pressed=0, layer=Base
-KL: col=02, row=11, pressed=1, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=02, row=11, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=08, pressed=1, layer=Base
-KL: col=00, row=08, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=00, row=09, pressed=1, layer=Base
-KL: col=00, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=00, pressed=1, layer=Base
-KL: col=00, row=11, pressed=1, layer=Base
-KL: col=00, row=11, pressed=0, layer=Base
-KL: col=03, row=00, pressed=0, layer=Base
-KL: col=01, row=00, pressed=1, layer=Base
-KL: col=01, row=00, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=11, pressed=1, layer=Base
-KL: col=00, row=11, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=04, row=04, pressed=1, layer=Base
-KL: col=04, row=04, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=05, row=02, pressed=1, layer=Base
-KL: col=05, row=02, pressed=0, layer=Base
-KL: col=03, row=13, pressed=1, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=03, row=13, pressed=0, layer=Base
-KL: col=01, row=13, pressed=1, layer=Base
-KL: col=01, row=13, pressed=0, layer=Base
-KL: col=03, row=08, pressed=1, layer=Base
-KL: col=03, row=08, pressed=0, layer=Base
-KL: col=00, row=04, pressed=1, layer=Base
-KL: col=00, row=04, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=09, pressed=1, layer=Base
-KL: col=04, row=09, pressed=0, layer=Base
-KL: col=04, row=10, pressed=1, layer=Base
-KL: col=04, row=10, pressed=0, layer=Base
-KL: col=04, row=03, pressed=1, layer=Base
-KL: col=04, row=03, pressed=0, layer=Base
-KL: col=02, row=13, pressed=1, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=02, row=13, pressed=0, layer=Base
-KL: col=02, row=13, pressed=1, layer=Base
-KL: col=03, row=00, pressed=1, layer=Base
-KL: col=02, row=01, pressed=1, layer=Base
-KL: col=02, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=01, pressed=0, layer=Base
-KL: col=03, row=00, pressed=0, layer=Base
-KL: col=02, row=13, pressed=0, layer=Base
-KL: col=03, row=01, pressed=1, layer=Base
-KL: col=03, row=03, pressed=1, l
+KL: col=04, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=06, layer=Base
+KL: col=02, row=13, layer=Symb
+KL: col=01, row=05, layer=Symb
+KL: col=01, row=06, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=10, layer=Symb
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=10, layer=Symb
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=09, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=08, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=10, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=09, layer=Mdia
+KL: col=02, row=09, layer=Mdia
+KL: col=02, row=09, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=02, row=09, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=03, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=10, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=03, row=09, layer=Mdia
+KL: col=04, row=11, layer=Mdia
+KL: col=02, row=12, layer=Base
+KL: col=02, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=04, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=02, row=02, layer=Symb
+KL: col=02, row=02, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=04, row=11, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=10, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=04, row=04, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=08, layer=Symb
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=09, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=01, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=01, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=04, row=09, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=09, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=11, layer=Symb
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=09, layer=Symb
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=01, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=04, row=01, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=01, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=02, row=01, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=03, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=11, layer=Base
+KL: col=04, row=11, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=01, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=04, row=11, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=02, row=09, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=10, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=01, row=04, layer=Symb
+KL: col=05, row=03, layer=Symb
+KL: col=01, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=02, layer=Symb
+KL: col=05, row=03, layer=Symb
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=02, row=09, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=10, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=01, row=04, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=02, layer=Symb
+KL: col=01, row=13, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=03, row=03, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=08, layer=Symb
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=08, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=10, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=10, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=10, layer=Symb
+KL: col=02, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=08, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=08, layer=Symb
+KL: col=01, row=10, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=10, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=11, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=02, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=04, layer=Mdia
+KL: col=02, row=01, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=04, row=04, layer=Symb
+KL: col=04, row=04, layer=Symb
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=02, row=03, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=05, row=10, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=01, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=02, row=04, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=10, layer=Symb
+KL: col=02, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=02, row=12, layer=Base
+KL: col=03, row=02, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=02, row=03, layer=Symb
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=11, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=10, layer=Symb
+KL: col=01, row=05, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=05, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=01, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=01, row=04, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=02, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=04, row=03, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=02, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=04, layer=Mdia
+KL: col=02, row=09, layer=Mdia
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=11, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=10, layer=Symb
+KL: col=01, row=01, layer=Symb
+KL: col=01, row=04, layer=Symb
+KL: col=02, row=04, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=02, layer=Symb
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=03, layer=Symb
+KL: col=01, row=09, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=03, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=09, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=03, row=11, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=04, row=11, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=10, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=10, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=11, layer=Symb
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=11, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=09, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=09, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=06, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=04, layer=Symb
+KL: col=03, row=04, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=03, layer=Symb
+KL: col=02, row=03, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=02, row=04, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=04, layer=Mdia
+KL: col=03, row=12, layer=Base
+KL: col=02, row=09, layer=Mdia
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=10, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=09, layer=Mdia
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=04, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=10, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=02, layer=Mdia
+KL: col=03, row=12, layer=Base
+KL: col=02, row=02, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=10, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=03, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=01, row=00, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=12, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=04, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=04, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=01, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=02, row=10, layer=Symb
+KL: col=05, row=02, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=02, row=10, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=05, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=01, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=03, row=05, layer=Symb
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=05, layer=Symb
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=05, row=02, layer=Symb
+KL: col=01, row=04, layer=Symb
+KL: col=02, row=13, layer=Base
+KL: col=04, row=03, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=03, layer=Symb
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=04, layer=Symb
+KL: col=03, row=11, layer=Base
+KL: col=02, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=00, row=00, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=02, row=11, layer=Mdia
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=01, row=00, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=12, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=10, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=03, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=00, row=13, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=03, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=08, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=08, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=03, row=04, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=04, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=01, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=02, row=03, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=11, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=05, row=08, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=01, row=01, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=08, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=02, row=12, layer=Base
+KL: col=01, row=02, layer=Base
+KL: col=01, row=01, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=00, layer=Base
+KL: col=03, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=02, row=05, layer=Base
+KL: col=01, row=10, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=05, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=02, row=01, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=01, row=09, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=04, row=09, layer=Base
+KL: col=01, row=04, layer=Base
+KL: col=03, row=09, layer=Base
+KL: col=05, row=03, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=11, layer=Base
+KL: col=03, row=12, layer=Base
+KL: col=02, row=02, layer=Base
+KL: col=01, row=05, layer=Base
+KL: col=05, row=11, layer=Base
+KL: col=05, row=10, layer=Base
+KL: col=05, row=06, layer=Base
+KL: col=02, row=03, layer=Base
