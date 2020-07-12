@@ -8,6 +8,12 @@ to see a heatmap of key usage
 - `hid_listen.mac`: Taken from [here](https://www.pjrc.com/teensy/hid_listen.html), this application
 will listen for key press logging events if key logging is turned on and print the logs to the
 screen
+- `heatmap_data.json`: The saved data from `heatmap.py`
+
+Generated files
+- `<layer>.json`: The output keyboard layer to be uploaded to  [KLE](http://www.keyboard-layout-editor.com/#/)
+- `stamped-log`: Where you should save the output of `hid_listen.mac` to be used
+by `heatpmap.py`
 
 # Usage
 To log key presses to a file to be used by `heatmap.py`, navigate to this directory and run
